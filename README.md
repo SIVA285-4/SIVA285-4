@@ -15,7 +15,7 @@ I am a VLSI Design & Verification Engineer specializing in digital RTL design an
 ![Linux](https://img.shields.io/badge/Linux_Ubuntu-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/siva-rama-kishore-pakina-6aa063266) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siva-rama-kishore-pakina-6aa063266) 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=SIVA285-4&theme=one_dark_pro&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=SIVA285-4&theme=one_dark_pro&hide_border=false)<br/>
