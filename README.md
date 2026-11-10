@@ -4,20 +4,9 @@ I am a **VLSI Design & Verification Engineer** specializing in digital RTL desig
 ### 🛠️ Hardware Description & Verification
 ![SystemVerilog](https://img.shields.io/badge/SystemVerilog-00599C?style=for-the-badge&logoColor=white)
 ![Verilog HDL](https://img.shields.io/badge/Verilog_HDL-2C3E50?style=for-the-badge&logoColor=white)
-![UVM](https://img.shields.io/badge/UVM_1.2-E67E22?style=for-the-badge&logoColor=white)
+![UVM](https://img.shields.io/badge/UVM_-E67E22?style=for-the-badge&logoColor=white)
 ![SVA](https://img.shields.io/badge/SVA_(Assertions)-8E44AD?style=for-the-badge&logoColor=white)
 
-### 🔌 Protocols
-![AMBA AXI3](https://img.shields.io/badge/Protocol-AMBA_AXI3-008080?style=for-the-badge)
-![AMBA APB](https://img.shields.io/badge/Protocol-AMBA_APB-16A085?style=for-the-badge)
-![SPI](https://img.shields.io/badge/Protocol-SPI-27AE60?style=for-the-badge)
-
-### 🧰 EDA Tools & Environments
-![QuestaSim](https://img.shields.io/badge/QuestaSim-Siemens_EDA-D35400?style=for-the-badge)
-![Synopsys DC](https://img.shields.io/badge/Design_Compiler-Synopsys-6C3483?style=for-the-badge)
-![Vivado](https://img.shields.io/badge/Xilinx_Vivado-AMD_Xilinx-BA4A00?style=for-the-badge)
-![SpyGlass](https://img.shields.io/badge/SpyGlass_Lint-Synopsys-1F618D?style=for-the-badge)
-![Linux](https://img.shields.io/badge/Linux_Ubuntu-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/siva-rama-kishore-pakina-6aa063266) 
