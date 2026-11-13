@@ -4,7 +4,7 @@ I am a VLSI Design & Verification Engineer specializing in digital RTL design an
 ### 🛠️ Hardware Description & Verification
 ![SystemVerilog](https://img.shields.io/badge/SystemVerilog-00599C?style=for-the-badge&logoColor=white)
 ![Verilog HDL](https://img.shields.io/badge/Verilog_HDL-2C3E50?style=for-the-badge&logoColor=white)
-![UVM](https://img.shields.io/badge/UVM_1.2-E67E22?style=for-the-badge&logoColor=white)
+![UVM](https://img.shields.io/badge/UVM-E67E22?style=for-the-badge&logoColor=white)
 ![SVA](https://img.shields.io/badge/SVA_(Assertions)-8E44AD?style=for-the-badge&logoColor=white)
 
 ### 🧰 EDA Tools & Environments
